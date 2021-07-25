@@ -20,7 +20,7 @@ FILE *pcap2tcv(const char *filename) {
 }
 
 
-// Leer y preprocesar la siguiente línea, si se lee la última línea, devuelve falso
+// Leer y preprocesar la siguiente línea, si se lee la última línea,  devuelve falso
 int TsvReader::nextLine() {
     // Si se lee el final del archivo, se devuelve la columna 0
     if (std::fgets(buffer, BufferSize, fp) ==nullptr) return 0;

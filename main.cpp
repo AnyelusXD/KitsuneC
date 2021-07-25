@@ -86,7 +86,7 @@ void aE() {
 }
 
 void testARP() {
-    const char *filename = "F:\\Dataset\\KITSUNE\\Mirai\\ejer3.pcap";
+    const char *filename = "F:\\Dataset\\KITSUNE\\Mirai\\ejer3.pcap"; //archivo con captura de Datos
     const int FM_train_num = 10000; // La cantidad de mapas de características de entrenamiento requeridos
     const int AD_train_num = 300000; // El número de módulos de detección de anomalías de formación necesarios
     const int KitNET_train_num = AD_train_num + FM_train_num;  // El número necesario para entrenar KitNET
