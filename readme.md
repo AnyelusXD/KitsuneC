@@ -1,8 +1,8 @@
 ## Kitsune
 
-This repository is a C++ implementation of Kitsune;  an online network intrusion detection system, based on an ensemble of autoencoders.
+Este repositorio es una implementación C++ de Kitsune; un sistema de detección de intrusos en la red en línea, basado en un conjunto de codificadores automáticos.
 
-The paper is : *Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18)* 
+El documento es: *Yisroel Mirsky, Tomer Doitshman, Yuval Elovici y Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Simposio de seguridad de redes y sistemas distribuidos 2018 (NDSS'18)*
 
-The Python implementation of Kitsune is:   https://github.com/ymirsky/Kitsune-py 
+La implementación Python de Kitsune es:   https://github.com/ymirsky/Kitsune-py 
 
